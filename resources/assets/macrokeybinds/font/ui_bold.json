@@ -1,0 +1,12 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "macrokeybinds:inter_semibold.ttf",
+      "size": 9.0,
+      "oversample": 4.0,
+      "shift": [0.0, 0.0]
+    },
+    { "type": "reference", "id": "minecraft:default" }
+  ]
+}
